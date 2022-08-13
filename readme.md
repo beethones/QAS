@@ -1,0 +1,1 @@
+Regras compiladas em Teste

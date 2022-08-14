@@ -1,1 +1,1 @@
-Regras compiladas em Teste
+Regras compiladas em Teste, agora
